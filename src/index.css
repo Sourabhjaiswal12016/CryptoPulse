@@ -1,0 +1,17 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container{
+    background-color: #0f051d;
+    /* background-color: #14161A; */
+    /* background-image: url("/src/image/bg.jpg"); */
+    color: #f4f4f4;
+}
+
+a{
+    color: #f4f4f4;
+    text-decoration: none;
+}
